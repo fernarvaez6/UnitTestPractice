@@ -1,0 +1,5 @@
+c:\users\fernandonarvaez\documents\visual studio 2015\Projects\UnitTestPractice1\UnitTestPractice1\bin\Debug\UnitTestPractice1.exe.config
+c:\users\fernandonarvaez\documents\visual studio 2015\Projects\UnitTestPractice1\UnitTestPractice1\bin\Debug\UnitTestPractice1.exe
+c:\users\fernandonarvaez\documents\visual studio 2015\Projects\UnitTestPractice1\UnitTestPractice1\bin\Debug\UnitTestPractice1.pdb
+c:\users\fernandonarvaez\documents\visual studio 2015\Projects\UnitTestPractice1\UnitTestPractice1\obj\Debug\UnitTestPractice1.exe
+c:\users\fernandonarvaez\documents\visual studio 2015\Projects\UnitTestPractice1\UnitTestPractice1\obj\Debug\UnitTestPractice1.pdb
